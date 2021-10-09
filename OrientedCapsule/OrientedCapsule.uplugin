@@ -8,13 +8,11 @@
 	"CreatedBy": "Elhoussine Mehnik",
 	"CreatedByURL": "https://twitter.com/HoussineMehnik",
 	"DocsURL": "http://ue4resources.com/",
-	"MarketplaceURL": "https://github.com/mhousse1247",
+	"MarketplaceURL": "",
 	"SupportURL": "mailto:ue4resources@gmail.com",
-	"EngineVersion": "4.26.0",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": true,
 	"Modules": [
 		{
 			"Name": "OrientedCapsule",
