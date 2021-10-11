@@ -1,8 +1,0 @@
-{
-	"BuildId": "14830424",
-	"Modules": 
-	{
-		"OrientedCapsule": "UE4Editor-OrientedCapsule.dll",
-		"OrientedCapsuleEditor": "UE4Editor-OrientedCapsuleEditor.dll"
-	}
-}

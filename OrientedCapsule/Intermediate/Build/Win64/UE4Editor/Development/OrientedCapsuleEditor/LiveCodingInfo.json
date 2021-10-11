@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.OrientedCapsuleEditor.cpp.obj": [
-			"OrientedCapsuleEditor.cpp.obj",
-			"OrientedCapsuleEditorStyle.cpp.obj"
-		]
-	}
-}
